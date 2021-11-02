@@ -1,4 +1,4 @@
-# Paper / Project on Advanced Signal Processing Course
+# ANALYSIS OF THE MUSIC STIMULI EFFECT ON HEAD MICROMOTION
 
 **Authors:** M. Boukoutsou, D. F. Kavelidis, D. Natsidou, N. Papageorgiou, I. Roboli and L. J. Hatjileontiadis
 
