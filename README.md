@@ -1,4 +1,4 @@
-# "Analysis of the Music Stimuli Effect On Head Micromotion" / Paper for Advanced Signal Processing Course - AUTh
+# "Analysis of the Music Stimuli Effect On Head Micromotion"
 
 **Authors:** M. Boukoutsou, D. F. Kavelidis, D. Natsidou, N. Papageorgiou, I. Roboli and L. J. Hatjileontiadis
 
